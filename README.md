@@ -15,4 +15,4 @@ That’s the part about putting an upper bound. A model changes when you change 
 That’s just how it is! But it shouldn’t change more than a certain threshold regardless of what subset you choose for training. 
 If it satisfies this condition, it’s said to be “stable”.
 
-In my project I will be using "DeepFool" a simple and accurate method to fool deep neural networks. I will also provide the option of perturbing the image manually
+In my project I will be using "DeepFool" (a simple and accurate method to fool deep neural networks) to perturbe the input. I will also provide the option of perturbing the input manually
